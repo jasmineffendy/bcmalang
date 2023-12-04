@@ -1,0 +1,2 @@
+# bcmalang
+project magang 
